@@ -5,9 +5,9 @@ Python, C, Java, Raspberry Pi 기반의 시스템 개발 경험을 보유하고 
 
 본 저장소는 진행한 프로젝트를 체계적으로 정리하여 기술 역량을 증명하기 위해 구성하였습니다.
 
-기술 스택
+###기술 스택
 
-Languages
+####Languages
 
 Python
 
@@ -15,7 +15,7 @@ C
 
 Java
 
-Tools & Platforms
+####Tools & Platforms
 
 Raspberry Pi 4
 
@@ -23,7 +23,7 @@ Git / GitHub
 
 Google Colab
 
-Frameworks / Libraries
+####Frameworks / Libraries
 
 PyTorch
 
