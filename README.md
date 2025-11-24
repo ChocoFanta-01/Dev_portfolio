@@ -5,31 +5,38 @@ Python, C, Java, Raspberry Pi 기반의 시스템 개발 경험을 보유하고 
 
 본 저장소는 진행한 프로젝트를 체계적으로 정리하여 기술 역량을 증명하기 위해 구성하였습니다.
 
-###기술 스택
+## 자격증
+- **정보처리기사**  
+  (Engineer Information Processing, HRDK)
 
-####Languages
+![License](https://img.shields.io/badge/Engineer%20Information%20Processing-Passed-blue)
 
-Python
 
-C
+## 기술 스택
 
-Java
+#### Languages
 
-####Tools & Platforms
+  - Python
 
-Raspberry Pi 4
+  - C
 
-Git / GitHub
+  - Java
 
-Google Colab
+#### Tools & Platforms
 
-####Frameworks / Libraries
+  - Raspberry Pi 4
 
-PyTorch
+  - Git / GitHub
 
-Flask
+  - Google Colab
 
-MQTT(Mosquitto)
+#### Frameworks / Libraries
+
+  - PyTorch
+
+  - Flask
+
+  - MQTT(Mosquitto)
 
 ## 주요 프로젝트
 - [Fashion-MNIST CNN Classification](./fashion-mnist/README.md)
