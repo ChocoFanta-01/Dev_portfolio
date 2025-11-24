@@ -8,18 +8,27 @@ Python, C, Java, Raspberry Pi 기반의 시스템 개발 경험을 보유하고 
 기술 스택
 
 Languages
+
 Python
+
 C
+
 Java
 
 Tools & Platforms
+
 Raspberry Pi 4
+
 Git / GitHub
+
 Google Colab
 
 Frameworks / Libraries
+
 PyTorch
+
 Flask
+
 MQTT(Mosquitto)
 
 ## 주요 프로젝트
