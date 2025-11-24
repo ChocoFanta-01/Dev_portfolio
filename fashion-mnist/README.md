@@ -25,25 +25,27 @@ CNN 기반 이미지 분류 모델을 직접 설계하고
 ## 3. 모델 구조(Convolution Layers)
 
 1) Conv Block 1
-Conv2D (in=1, out=32, kernel=3, padding=1)
-ReLU
-MaxPool(2,2)
-Output: B × 32 × 14 × 14
+  - Conv2D (in=1, out=32, kernel=3, padding=1)
+  - ReLU
+  - MaxPool(2,2)
+  - Output: B × 32 × 14 × 14
 
 2) Conv Block 2
-Conv2D (in=32, out=64, kernel=3, padding=1)
-ReLU
-MaxPool(2,2)
-Output: B × 64 × 7 × 7
+  - Conv2D (in=32, out=64, kernel=3, padding=1)
+  - ReLU
+  - MaxPool(2,2)
+  - Output: B × 64 × 7 × 7
 
-Fully Connected Layers
-Flatten(64×7×7)
-Linear
-ReLU
-Linear
-Softmax
+### Fully Connected Layers
+  - Flatten(64×7×7)
+  - Linear
+  - ReLU
+  - Linear
+  - Softmax
 
 ## 4. 데이터셋
+
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/04c1fe0e-41ce-41fd-8f82-a34c28537f3b" />
 
 Fashion-MNIST:
 Train: 60,000 images
@@ -73,8 +75,9 @@ Gray-scale 28×28
 9: Ankle Boot
 
 ## 5. 학습 결과
+<img width="360" height="100" alt="image" src="https://github.com/user-attachments/assets/8fe5ce90-e248-4b55-a1ef-1cfa5d0c14f9" />
 
-** 최종 Test Accuracy: 94.96% **
+**최종 Test Accuracy: 94.96%**
 
 예측 예시
 
